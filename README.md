@@ -7,4 +7,4 @@ The script prints the top 20 words most frequently occurring in assigned patent 
 
 Example usage: 
 
-python assignment.py ad20160216
+python assignment.py ad20160216.xml

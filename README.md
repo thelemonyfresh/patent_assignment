@@ -1,12 +1,12 @@
 # patent_assignment: Daily Patent Assignment Trends
 
-This script allows the user to parse patent assignment data from the USPTO, compile list of top assignors, assignees, and top keywords from assigned patent titles on a given day.
+This script allows the user to parse patent assignment data from the USPTO, compile list of top assignors, assignees, and top keywords from assigned patent titlnnnes on a given day.
 
 ## How to Use
 
-Obtain patent assignment XML records from [Reed Tech](http://trademarks.reedtech.com/assignment.php), published daily. Unpack a .zip file, and then pass the path of the "adYYYYMMDD.xml" file to the script. More info on my [blog](http://danielporter.ca/blog/?p=43).
+Obtain patent assignment XML records from [Reed Tech](http://trademarks.reedtech.com/assignment.php), published daily. Unpack a .zip file, and then pass the path of the "adYYYYMMDD.xml" file to the script. More info on my [blog post](http://danielporter.ca/blog/?p=43).
 
-The script prints the top 20 words most frequently occurring in assigned patent titles, and the top assignors/assignees for a given dat.
+The script prints the top 20 words most frequently occurring in assigned patent titles, and the top assignors/assignees for a given date.
 
 ### Example usage: 
 ```

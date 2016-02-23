@@ -21,6 +21,8 @@ On 20160101 there are a total of 199 assignment records.
 
 
 Top 20 assigned patent title tokens:
+
+
 1. resistance
 2. surgical
 3. chair
@@ -43,7 +45,9 @@ Top 20 assigned patent title tokens:
 20. military
 
 
-Top 20 assignees (by number of assignment records)
+Top 20 assignees (by number of assignment records):
+
+
 1. COLORADO ENERGY RESEARCH TECHNOLOGIES, LLC
 2. VYNCA, LLC
 3. ACER INCORPORATED
@@ -67,6 +71,8 @@ Top 20 assignees (by number of assignment records)
 
 
 Top 20 assignors (by number of assignment records):
+
+
 1. PICA, FRANCESCO
 2. CHEW, HONG MENG ALAN
 3. SHINTANI, KOICHI

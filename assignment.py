@@ -64,10 +64,10 @@ wordfreq = word_count(title_text,patent_stopwords)
 print 'On '+ re.sub("[^0-9]", "", path) + ' there are a total of ' + str(record) + ' assignment records.'
 print '\nTop 20 assigned patent title tokens:'
 for i, word in enumerate(wordfreq.keys()[:20]):
-    print i+1, word
-print '\nTop 20 assignees (by number of assignment records)'
+    print str(i+1)+ ". " + word
+print '\nTop 20 assignees (by number of assignment records):'
 for i, word in enumerate(assignees_freqdist.keys()[:20]):
-    print i+1, word
+    print str(i+1)+ ". " + word
 print '\nTop 20 assignors (by number of assignment records):'
 for i, word in enumerate(assignors_freqdist.keys()[:20]):
-    print i+1, word
+    print str(i+1)+ ". " + word
